@@ -11,7 +11,7 @@
     "url": "git+ssh://git@bitbucket.org/analyticspros/optimize-server-side-experiment.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pat Grady",
   "license": "MIT",
   "homepage": "https://bitbucket.org/analyticspros/optimize-server-side-experiment#readme"
 }
