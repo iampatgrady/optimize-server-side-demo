@@ -1,0 +1,17 @@
+{
+  "name": "optimize-server-side-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/analyticspros/optimize-server-side-experiment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/analyticspros/optimize-server-side-experiment#readme"
+}
