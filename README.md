@@ -4,8 +4,8 @@ TODO: make this React application
 ## INSTALL
 Have Node.js installed with the `npm` package manager. In your terminal, run:  
 ```bash
-git clone git@bitbucket.org:analyticspros/optimize-server-side-experiment.git
-cd optimize-server-side-experiment
+git clone https://github.com/iampatgrady/optimize-server-side-demo.git
+cd optimize-server-side-demo
 npm install
 npm test
 npm start
