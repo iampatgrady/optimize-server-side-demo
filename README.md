@@ -2,7 +2,7 @@
 TODO: make this React application  
 
 ## INSTALL
-Have Node.js installed with the `npm` package manager,  https://nodejs.org/en/download/
+Have Node.js installed with the `npm` package manager,  https://nodejs.org/en/download/  
 In your terminal, run:  
 ```bash
 git clone https://github.com/iampatgrady/optimize-server-side-demo.git
