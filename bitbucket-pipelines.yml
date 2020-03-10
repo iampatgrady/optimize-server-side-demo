@@ -1,0 +1,8 @@
+image: node:10.15.1
+pipelines:
+  default:
+    - step:
+        name: Build and Test
+        script:
+          - npm install
+          - npm test

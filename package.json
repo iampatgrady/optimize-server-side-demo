@@ -2,9 +2,10 @@
   "name": "optimize-server-side-experiment",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --coverage --detectOpenHandles",
+    "dev": "nodemon"
   },
   "repository": {
     "type": "git",
@@ -13,5 +14,13 @@
   "keywords": [],
   "author": "Pat Grady",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/analyticspros/optimize-server-side-experiment#readme"
+  "homepage": "https://bitbucket.org/analyticspros/optimize-server-side-experiment#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^24.8.0",
+    "supertest": "^4.0.2",
+    "pug": "^2.0.4",
+    "nodemon": "^1.19.3",
+    "express-favicon": "^2.0.1"
+  }
 }

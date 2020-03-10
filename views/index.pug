@@ -1,0 +1,27 @@
+extends layout
+
+block layout-content
+  div.View
+    h1.Banner Optimize server-side example
+
+    div.Message
+      div.Title
+        h3 Server Delivered Content
+      span In HTTP 200 Response
+      h1
+        div#server_content
+          -
+            var content = Math.round(Math.random())
+            console.log("This prints to server logs:", content)
+          p=content
+
+    div.Message
+      div.Title
+        h3 GTM Delivered Content,
+      span GTM Tag injects from dataLayer:
+      h1
+        div#gtm_content
+
+    div.NavButtons
+      a(href="https://www.adswerve.com")
+          div.NavButton Adswerve.com
