@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "jest": "^24.8.0",
     "supertest": "^4.0.2",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "nodemon": "^1.19.3",
     "express-favicon": "^2.0.1"
   }
