@@ -16,7 +16,7 @@
   "license": "MIT",
   "homepage": "https://bitbucket.org/analyticspros/optimize-server-side-experiment#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jest": "^24.8.0",
     "supertest": "^4.0.2",
     "pug": "^2.0.4",
